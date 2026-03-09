@@ -7,6 +7,8 @@ Carlos Eduardo do Nascimento Melo - 20232180008
 
 Felipe Enzo de Sá Barreto Fernandes - 20241130049
 
+Gustavo Amorim Rodrigues - 20241130059
+
 Luiz Gabriel Oliveira Gomes - 20232130014
 
 Marcus Vinícius Gracia Ramos - 20241180171
