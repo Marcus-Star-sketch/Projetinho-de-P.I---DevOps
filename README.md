@@ -2,6 +2,7 @@
 O repositório de DevOps e React para as aulas de P.I de Tadeu e Mobile de Caetano :3
 
 Alunos:
+
 Carlos Eduardo do Nascimento Melo - 20232180008
 
 Felipe Enzo de Sá Barreto Fernandes - 20241130049
@@ -12,7 +13,11 @@ Marcus Vinícius Gracia Ramos - 20241180171
 
 Pedro Sergio Ribeiro Santana Bezerra Rodrigues - 20241130070
 
+Ravel Fonseca de Moura - 20231180054
+
 Robson Ferreira Cardoso  - 20241180179
+
+
 
 
 ⠀⠀⠀⠀⡠⠖⠉⠩⠩⠍⠭⠽⠽⠿⠿⣿⣾⣿⣿⡿⢸⣿⣿⣿⣾⠀⣿⡇⠀⠀⠀⠀⠀⣀⡀⠠⠤⠿⠿⢿⣿⣿⣿⡆⡭⡘⢥⢋⠽⣟⠛⠛⠛⠛⠳⢼⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀
